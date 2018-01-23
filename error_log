@@ -1,0 +1,81 @@
+[02-Apr-2015 16:36:53 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/81.235.254.208/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[02-Apr-2015 16:36:53 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[03-Apr-2015 06:31:52 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/5.9.151.67/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[03-Apr-2015 06:31:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[04-Apr-2015 01:37:37 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/220.181.108.111/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[04-Apr-2015 01:37:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[04-Apr-2015 13:18:06 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/180.76.5.154/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[04-Apr-2015 13:18:06 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 03:10:10 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/36.250.74.88/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 03:10:10 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 03:13:30 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/36.250.74.88/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 03:13:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 03:13:52 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/36.250.74.88/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 03:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 03:14:16 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/181.88.177.153/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 03:14:16 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 03:15:51 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/36.250.74.88/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 03:15:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:40:24 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/97.77.104.22/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:40:24 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:40:37 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/97.77.104.22/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:40:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:40:54 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/223.4.21.184/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:40:54 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:40:56 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/223.4.21.184/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:40:56 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:45:21 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:45:21 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:46:15 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:46:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:46:23 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:46:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:46:49 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:46:49 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:52:50 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:52:50 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:55:48 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:55:48 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:56:05 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:56:05 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:56:33 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:56:33 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:57:11 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:57:11 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 04:57:37 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/123.201.95.189/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 04:57:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 08:03:04 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/45.55.133.233/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 08:03:04 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[05-Apr-2015 08:15:05 America/Denver] PHP Warning:  file_get_contents(http://ipinfo.io/104.32.117.243/json): failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home4/techmuzz/public_html/whatismyip/index.php on line 49
+[05-Apr-2015 08:15:05 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/techmuzz/public_html/whatismyip/index.php on line 50
+[18-Dec-2015 04:44:27 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_intl.dll' - /usr/php/54/usr/lib64/php/modules/php_intl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Dec-2015 05:25:00 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_intl.dll' - /usr/php/54/usr/lib64/php/modules/php_intl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Dec-2015 02:39:58 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/php_intl.dll' - /usr/php/54/usr/lib64/php/modules/php_intl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[06-Jul-2017 07:02:11 America/Chicago] PHP Warning:  file_get_contents(http://ipinfo.io/69.195.127.37/json): failed to open stream: Connection timed out in /home4/techmuzz/public_html/whatismyip/index.php on line 48
+[08-Jul-2017 21:27:30 America/Chicago] PHP Warning:  file_get_contents(http://ipinfo.io/69.195.127.37/json): failed to open stream: Connection timed out in /home4/techmuzz/public_html/whatismyip/index.php on line 48
+[08-Jul-2017 21:28:25 America/Chicago] PHP Warning:  file_get_contents(http://ipinfo.io/69.195.127.37/json): failed to open stream: Connection timed out in /home4/techmuzz/public_html/whatismyip/index.php on line 48
